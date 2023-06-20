@@ -6,13 +6,13 @@ Aqui estão algumas estatísticas do meu perfil do GitHub:
 <br />
 <div>
     Aqui estão algumas estatísticas do meu perfil do GitHub:
-    <br />
+    <br /><br />
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=koddydev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <br />
+    <br /><br />
     Aqui estão as principais linguagens que utilizo:
-    <br />
+    <br /><br />
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=koddydev&layout=compact&langs_count=7&theme=dracula&count_private=true"/>
-    <br />
+    <br /><br />
     Sinta-se à vontade para explorar meus projetos e repositórios. Fique à vontade para entrar em contato comigo caso tenha alguma pergunta ou se quiser colaborar em algum projeto.
   <br />
   Vamos codificar juntos! 😄🚀
