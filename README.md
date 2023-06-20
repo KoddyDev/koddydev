@@ -5,7 +5,6 @@ Tenho experiência em programação desde 2017, o que significa que tenho 6 anos
 Aqui estão algumas estatísticas do meu perfil do GitHub:
 <br />
 <div>
-  <a href="https://github.com/koddydev">
     Aqui estão algumas estatísticas do meu perfil do GitHub:
     <br />
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=koddydev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
