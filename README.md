@@ -1,9 +1,7 @@
-👋 Olá! Me chamo Vinicius, apelidado de Koddy!
+👋 Olá, Me chame de Koddy!
 
-Tenho 14 anos ( 27/03 )!
-
-Sou desenvolvedor NodeJS há + de 4 anos (2017)!
-
+Expert in JS, TS, PHP, Java e Kotlin!
+Programmer since 2017 (6 years ago)
 <br>
 
 <div>
